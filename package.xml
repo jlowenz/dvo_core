@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>dvo_core</name>
+  <description>
+     dvo_core
+  </description>
+  <version>1.0.0</version>
+  <maintainer email="info@vision.in.tum.de">Christian Kerl</maintainer>
+  <license>GPL</license>
+  <url>http://ros.org/wiki/dvo_core</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>opencv2</depend>
+  <depend>sophus</depend>  
+</package>
+
+
